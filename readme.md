@@ -1,1 +1,1 @@
-# Snake Game
+# Snake Game Using HTML, CSS and JS
